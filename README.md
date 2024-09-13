@@ -11,17 +11,8 @@ Let's build something extraordinary!
 # 🛠 Skills
 
 ### 📈 Keterampilan
-- ![Digital Marketing](https://img.shields.io/badge/-Digital%20Marketing-28A745?style=for-the-badge&logo=google-ads&logoColor=white)
-- ![Editor Konten](https://img.shields.io/badge/-Editor%20Konten-0077B5?style=for-the-badge&logo=contentful&logoColor=white)
-- ![Desain](https://img.shields.io/badge/-Desain-EF3E42?style=for-the-badge&logo=adobe&logoColor=white)
-- ![Copywriting](https://img.shields.io/badge/-Copywriting-0A66C2?style=for-the-badge&logo=readme&logoColor=white)
-- ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-- ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-- ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
+![Digital Marketing](https://img.shields.io/badge/-Digital%20Marketing-28A745?style=for-the-badge&logo=google-ads&logoColor=white) ![Editor Konten](https://img.shields.io/badge/-Editor%20Konten-0077B5?style=for-the-badge&logo=contentful&logoColor=white) ![Desain](https://img.shields.io/badge/-Desain-EF3E42?style=for-the-badge&logo=adobe&logoColor=white) ![Copywriting](https://img.shields.io/badge/-Copywriting-0A66C2?style=for-the-badge&logo=readme&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
 
----
 
 ### 🧠 Lainnya
 - Identifikasi Peluang
@@ -30,12 +21,11 @@ Let's build something extraordinary!
 - Kemampuan Beradaptasi
 - Penanganan Masalah
 
----
 
 ### 💻 Software
-- ![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-- ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-- ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 
 ## Tech Stack
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
