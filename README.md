@@ -1,4 +1,4 @@
-
+<div style="text-align: center;">
 ## 🚀 About Me
 👋 Hello! I'm an Information Systems student passionate about merging tech with marketing innovation.
 
@@ -7,7 +7,7 @@ With a strong foundation in responsive web development (HTML, CSS, JavaScript) a
 Currently diving deep into the world of Artificial Intelligence (AI), I'm excited to blend cutting-edge tech with marketing strategies to create impactful, forward-thinking solutions.
 
 Let's build something extraordinary!
-
+</div>
 # 🛠 Skills
 
 ### 📈 Keterampilan
