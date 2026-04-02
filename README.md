@@ -1,8 +1,8 @@
 ## 🚀 About Me
-👋 Hello! I'm an Information Systems student passionate about merging tech with marketing innovation.
-With a strong foundation in responsive web development (HTML, CSS, JavaScript) and database management (SQL), I thrive in crafting intuitive and dynamic solutions. My journey through big data and data mining has equipped me to handle complex data-driven challenges, while my skills in Python help me bring data-driven solutions to life.
-Currently diving deep into the world of Artificial Intelligence (AI), I'm excited to blend cutting-edge tech with marketing strategies to create impactful, forward-thinking solutions.
-Let's build something extraordinary!
+👋 👋 Hello! I'm an Information Systems graduate with expertise in Machine Learning, Data Science, and Data Analytics.
+Proficient in Python with libraries such as TensorFlow, Pandas, NumPy, and Scikit-learn to process data into predictive models and valuable insights. Experienced in developing Predictive Analytics, Recommendation Systems, Computer Vision, and Sentiment Analysis using Supervised and Unsupervised Learning approaches.
+Strong interest in integrating Artificial Intelligence with business needs, committed to creating innovative and impactful data-driven solutions.
+Let's build something extraordinary! 🚀
 
 # 🛠 Skills
 ### 📈 Keterampilan
