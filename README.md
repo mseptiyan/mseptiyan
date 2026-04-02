@@ -1,5 +1,5 @@
 ## 🚀 About Me
-👋 👋 Hello! I'm an Information Systems graduate with expertise in Machine Learning, Data Science, and Data Analytics.
+👋 Hello! I'm an Information Systems graduate with expertise in Machine Learning, Data Science, and Data Analytics.
 Proficient in Python with libraries such as TensorFlow, Pandas, NumPy, and Scikit-learn to process data into predictive models and valuable insights. Experienced in developing Predictive Analytics, Recommendation Systems, Computer Vision, and Sentiment Analysis using Supervised and Unsupervised Learning approaches.
 Strong interest in integrating Artificial Intelligence with business needs, committed to creating innovative and impactful data-driven solutions.
 Let's build something extraordinary! 🚀
